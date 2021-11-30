@@ -1,1 +1,1 @@
-
+bool verifica(int&);
